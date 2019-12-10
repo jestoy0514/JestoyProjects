@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T09:33:15.697Z" agent="Mozilla/5.0 (Windows NT 6.1; rv:71.0) Gecko/20100101 Firefox/71.0" etag="32ZKTLdrpfVJ8lDoN0UP" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T09:35:56.910Z" agent="Mozilla/5.0 (Windows NT 6.1; rv:71.0) Gecko/20100101 Firefox/71.0" etag="_vqSv7CjK2mLjWki1Cwx" version="12.3.9" type="github" pages="1">
   <diagram id="m_6KivcLTKiVmroCHQWZ" name="Page-1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="H9U4fFk4iCSKxJlChLcn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-14" target="H9U4fFk4iCSKxJlChLcn-33">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-14" value="Passport = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-14" value="Soap = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="210" width="120" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="H9U4fFk4iCSKxJlChLcn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-15" target="H9U4fFk4iCSKxJlChLcn-43">
@@ -54,7 +54,7 @@
         <mxCell id="H9U4fFk4iCSKxJlChLcn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-15" target="H9U4fFk4iCSKxJlChLcn-16">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-15" value="Luggage = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-15" value="Swimwear = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211.5" y="210" width="120" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="H9U4fFk4iCSKxJlChLcn-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-16" target="H9U4fFk4iCSKxJlChLcn-17">
@@ -63,7 +63,7 @@
         <mxCell id="H9U4fFk4iCSKxJlChLcn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-16" target="H9U4fFk4iCSKxJlChLcn-44">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-16" value="&lt;div&gt;Ticket = Yes?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-16" value="Toothbrush = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362.5" y="210" width="120" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="H9U4fFk4iCSKxJlChLcn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-17" target="H9U4fFk4iCSKxJlChLcn-18">
@@ -72,7 +72,7 @@
         <mxCell id="H9U4fFk4iCSKxJlChLcn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-17" target="H9U4fFk4iCSKxJlChLcn-45">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-17" value="Money = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-17" value="Shoes = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="521" y="210" width="120" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="H9U4fFk4iCSKxJlChLcn-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-18" target="H9U4fFk4iCSKxJlChLcn-2">
@@ -87,19 +87,19 @@
         <mxCell id="H9U4fFk4iCSKxJlChLcn-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-18" target="H9U4fFk4iCSKxJlChLcn-46">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-18" value="Cellphone = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-18" value="Towel = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="210" width="120" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-27" value="Passport" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-27" value="Soap" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-28" value="Luggage" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-28" value="Swimwear" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211.5" y="120" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-29" value="Ticket" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-29" value="Toothbrush" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="120" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-30" value="Money" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-30" value="Shoes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="521" y="120" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="H9U4fFk4iCSKxJlChLcn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-31" target="H9U4fFk4iCSKxJlChLcn-14">
@@ -110,7 +110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H9U4fFk4iCSKxJlChLcn-31" value="Cellphone" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9U4fFk4iCSKxJlChLcn-31" value="Towel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="120" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="H9U4fFk4iCSKxJlChLcn-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H9U4fFk4iCSKxJlChLcn-33" target="H9U4fFk4iCSKxJlChLcn-15">
