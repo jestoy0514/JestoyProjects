@@ -1,1 +1,64 @@
-<mxfile host="www.draw.io" modified="2019-12-10T07:31:48.197Z" agent="Mozilla/5.0 (Windows NT 6.1; rv:71.0) Gecko/20100101 Firefox/71.0" version="12.3.9" etag="uBYdyJ_CRM0BjhwY66Ok" type="github" pages="1"><diagram id="WkAc6iRHsUEesLlADzzE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-10T07:50:33.557Z" agent="Mozilla/5.0 (Windows NT 6.1; rv:71.0) Gecko/20100101 Firefox/71.0" etag="84sBH08UxuknqBYkWUZD" version="12.3.9" type="github" pages="1">
+  <diagram id="WkAc6iRHsUEesLlADzzE" name="Page-1">
+    <mxGraphModel dx="1021" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJhQ06d3lfoYv9ND3w6f-1" target="IJhQ06d3lfoYv9ND3w6f-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="20" width="105" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-2" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="940" width="105" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJhQ06d3lfoYv9ND3w6f-3" target="IJhQ06d3lfoYv9ND3w6f-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-3" value="Task Completed = No" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="100" width="155" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJhQ06d3lfoYv9ND3w6f-4" target="IJhQ06d3lfoYv9ND3w6f-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-4" value="Task Completed = Yes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337" y="170" width="175" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-5" value="Current Time = 09:00 AM?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="175" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-6" value="Current Time = Get Current Time" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="223" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-7" value="Prepare Milk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="340" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-8" value="Current Time = 09:00 AM?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="175" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-9" value="Current Time = 03:00 PM?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="175" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-10" value="Current Time = 05:00 PM?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="765" width="175" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-11" value="Current Time = Others?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="910" width="175" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-12" value="Cook Lunch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="480" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-13" value="Baby Bath" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="620" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-14" value="Play Game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="745" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJhQ06d3lfoYv9ND3w6f-15" value="Do Nothing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="890" width="120" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
